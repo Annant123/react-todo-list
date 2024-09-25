@@ -7,7 +7,7 @@ Task Management: Add, read , edit, delete tasks.
 Local Storage Persistence: Each user's tasks are saved in the browser's local storage and are retrieved upon login.
 
 
-#Installation
+/Installation
 To run this project locally, follow these steps:
 
 #Clone the repository:
