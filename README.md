@@ -41,8 +41,6 @@ CSS: For styling the UI.
 │   ├── index.html
 │   └── ...
 ├── src
-│   ├── components
-│   │   └── Auth.js
 │   └── App.js
 │   └── App.css
 │   └── index.js
